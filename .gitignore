@@ -1,0 +1,22 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Neovim runtime/state
+.state/
+.undo/
+.swap/
+.backup/
+.shada
+
+# Lazy.nvim temp
+lazy-lock.json.backup
+lazy-lock.json.tmp
+
+# OS files
+.DS_Store
