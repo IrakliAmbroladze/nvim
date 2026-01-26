@@ -26,7 +26,7 @@ return {
               },
               -- Optional: always enable certain features (like "ssr")
               cargo = {
-                features = { "all" },
+                features = "all",
               },
               procMacro = {
                 ignored = {
