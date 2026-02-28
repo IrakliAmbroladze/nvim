@@ -18,6 +18,10 @@ return {
           },
         },
         eslint = {},
+        -- The standard CSS/SCSS server
+        cssls = {},
+        -- The one that helps with cross-file completions/extends
+        cssmodules_ls = {},
         rust_analyzer = {
           settings = {
             ["rust-analyzer"] = {
