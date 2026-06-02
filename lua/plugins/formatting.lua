@@ -8,6 +8,7 @@ return {
         typescript = { "prettier" },
         typescriptreact = { "prettier" },
         json = { "prettier" },
+        jsonc = { "prettier" },
         html = { "prettier" },
         css = { "prettier" },
         markdown = { "prettier" },
